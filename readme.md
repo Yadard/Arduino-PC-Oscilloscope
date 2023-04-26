@@ -2,7 +2,23 @@
 
 The Arduino Utility Library is an open-source library that provides a set of data structures and algorithms for Arduino development, similar to the C++ Standard Library. It includes a range of useful features that can help simplify your code and make your Arduino projects more efficient.
 
-## Features
+## Working Features
+
+- **Containers**
+    - [x] Array
+    - [ ] Vector
+    - [ ] Linked List
+    - [ ] Stacks
+    - [ ] Queues
+    - [ ] Maps
+    - [ ] Sets
+
+- **Algorithms**
+    - [ ] Sorting
+    - [ ] Searching
+    - [ ] Mathematics
+
+## Future Features
 
 The Arduino Utility Library includes the following features:
 
